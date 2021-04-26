@@ -344,6 +344,11 @@
     <!--218 Bosnia and Herzegovina-->
     <!--216 Hungary-->
     <!--219 Croatia-->
+    <EccEntry Ecc="192" Category="0" Condition="2" Plmn = "219 FFF" />
+    <EccEntry Ecc="193" Category="0" Condition="2" Plmn = "219 FFF" />
+    <EccEntry Ecc="194" Category="0" Condition="2" Plmn = "219 FFF" />
+    <EccEntry Ecc="195" Category="0" Condition="2" Plmn = "219 FFF" />
+    <EccEntry Ecc="1987" Category="0" Condition="2" Plmn = "219 FFF" />
     <!--220 Serbia and Montenegro-->
     <!--222 Italy-->
     <!--226 Romania-->
@@ -424,7 +429,8 @@
     <!--262 Germany-->
     <!-- #ifdef ODM_WT_EDIT -->
     <!-- Jinhua.Wan@ODM_WT.NW.AP, 2020/02/20, consistent with qct(ecc_list_oppo_qct)-->
-    <EccEntry Ecc="110" Category="0" Condition="1" Plmn="262 FFF"/>
+    <!-- Zhimin.Deng@ODM_HQ.NW.ECC.200338, 2021/02/05, del 110 as ecc -->
+    <!--<EccEntry Ecc="110" Category="0" Condition="1" Plmn="262 FFF"/>-->
     <!-- #endif ODM_WT_EDIT -->
     <!--266 Gibraltar-->
     <!--268 Portugal-->
@@ -892,12 +898,6 @@
     <!--714 Panama-->
     <!--716 Peru-->
     <EccEntry Ecc="105" Category="0" Condition="1" Plmn = "716 FFF" />
-    <!--#ifdef ODM_HQ_EDIT -->
-    <!--wangyong@ODM_HQ.NW.Call,2020/09/22 add ECC for Peru-->
-    <EccEntry Ecc="115" Category="0" Condition="1" Plmn = "716 FFF" />
-    <EccEntry Ecc="116" Category="0" Condition="1" Plmn = "716 FFF" />
-    <EccEntry Ecc="117" Category="0" Condition="1" Plmn = "716 FFF" />
-    <!--#endif ODM_HQ_EDIT -->
     <!--722 Argentine-->
     <!--724 Brazil-->
     <EccEntry Ecc="190" Category="0" Condition="1" Plmn = "724 FFF" />
@@ -917,15 +917,20 @@
     <!--#ifdef ODM_HQ_EDIT -->
     <!--hujunxia@ODM_HQ.NW.Call,2020/03/05 add ECC for Colombia-->
     <EccEntry Ecc="112" Category="0" Condition="1" Plmn="732 FFF"/>
-    <EccEntry Ecc="119" Category="0" Condition="1" Plmn="732 FFF"/>
-    <EccEntry Ecc="123" Category="0" Condition="1" Plmn="732 FFF"/>
     <EccEntry Ecc="911" Category="0" Condition="1" Plmn="732 FFF"/>
     <!--#endif ODM_HQ_EDIT -->
     <!--734 Venezuela-->
     <EccEntry Ecc="171" Category="0" Condition="1" Plmn = "734 FFF" />
     <!--736 Bolivia-->
-    <EccEntry Ecc="110" Category="0" Condition="1" Plmn = "736 FFF" />
-    <EccEntry Ecc="129" Category="0" Condition="1" Plmn = "736 FFF" />
+    <!--#ifdef ODM_HQ_EDIT -->
+    <!--Limiao@ODM_HQ.NW.Call,171609 2021/01/13 add ECC for Bolivia-->
+    <EccEntry Ecc="104" Category="0" Condition="2" Plmn = "736 FFF" />
+    <EccEntry Ecc="110" Category="0" Condition="2" Plmn = "736 FFF" />
+    <EccEntry Ecc="114" Category="0" Condition="2" Plmn = "736 FFF" />
+    <EccEntry Ecc="119" Category="0" Condition="2" Plmn = "736 FFF" />
+    <EccEntry Ecc="129" Category="0" Condition="2" Plmn = "736 FFF" />
+    <EccEntry Ecc="911" Category="0" Condition="2" Plmn = "736 FFF" />
+    <!--#endif ODM_HQ_EDIT -->
     <!--738 Guyana-->
     <!--740 Ecuador-->
     <!--746 Suriname-->

@@ -37,10 +37,6 @@ on property:ro.build.type=userdebug && property:persist.vendor.aee.tracing_on=1
 on init
     write /proc/self/coredump_filter 39
     export LD_PRELOAD libdirect-coredump.so
-#ifdef VENDOR_EDIT
-#zhouhengguo@BSP.Stablity,2019/10/09,enable aee exception for user temporary
-    setprop ro.vendor.aee.enforcing no
-#endif
 
 on property:sys.boot_completed=1
     start aee-reinit

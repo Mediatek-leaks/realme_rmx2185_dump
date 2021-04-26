@@ -334,7 +334,7 @@
 <spnOverride numeric="26601" spn="GIBTEL"/>
 <spnOverride numeric="26606" spn="CTS"/>
 <spnOverride numeric="26609" spn="Shine"/>
-<spnOverride numeric="26801" spn="voda P"/>
+<spnOverride numeric="26801" spn="Vodafone P"/>
 <spnOverride numeric="26803" spn="NOS"/>
 <spnOverride numeric="26806" spn="MEO"/>
 <spnOverride numeric="27001" spn="POST"/>
@@ -648,10 +648,11 @@
 <spnOverride numeric="330120" spn="Open Mob"/>
 <spnOverride numeric="334020" spn="TELCEL"/>
 <spnOverride numeric="334030" spn="Movistar"/>
-<spnOverride numeric="33403" spn="TEMM"/>
+<spnOverride numeric="33403" spn="Movistar"/>
 <spnOverride numeric="334050" spn="AT&amp;T"/>
 <spnOverride numeric="334070" spn="AT&amp;T"/>
-<spnOverride numeric="334090" spn="Nextel"/>
+<spnOverride numeric="334090" spn="AT&amp;T"/>
+<spnOverride numeric="334140" spn="ALTAN"/>
 <spnOverride numeric="33420" spn="TELCEL"/>
 <spnOverride numeric="33450" spn="AT&amp;T"/>
 <spnOverride numeric="33490" spn="AT&amp;T"/>

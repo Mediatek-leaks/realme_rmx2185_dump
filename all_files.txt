@@ -1,9 +1,9 @@
 195216339	system/system/priv-app/OppoGallery2/OppoGallery2.apk
 154340982	system/system/product/priv-app/Velvet/Velvet.apk
+128173221	system/system/preload/OppoVideoEditor/OppoVideoEditor.apk
 116293150	system/system/priv-app/Settings/Settings.apk
 108827506	system/system/priv-app/Browser/Browser.apk
-100675078	system/system/apex/com.android.runtime.release.apex
-96074748	system/system/preload/OppoVideoEditor/OppoVideoEditor.apk
+100687366	system/system/apex/com.android.runtime.release.apex
 94555429	system/system/product/priv-app/GmsCore/GmsCore.apk
 90307749	system/system/app/OppoCamera/OppoCamera.apk
 78020028	oppo_product/app/Photos/Photos.apk
@@ -11,7 +11,7 @@
 66932142	system/system/product/app/WebViewGoogle/WebViewGoogle.apk
 63000264	system/system/product/app/LatinImeGoogle/LatinImeGoogle.apk
 61301096	system/system/app/Gamecenter/Gamecenter.apk
-61135827	system/system/priv-app/Mms/Mms.apk
+60506611	system/system/priv-app/Mms/Mms.apk
 59666763	system/system/preload/HeyFun/HeyFun.apk
 58583680	system/system/product/app/TrichromeLibrary/TrichromeLibrary.apk
 57851962	system/system/framework/oppo-framework-res.apk
@@ -37,7 +37,7 @@
 37650310	system/system/product/priv-app/GoogleDialer/GoogleDialer.apk
 37469022	system/system/priv-app/KeKeThemeStore/KeKeThemeStore.apk
 36472552	system/system/priv-app/SystemUI/oat/arm64/SystemUI.odex
-36250643	vendor/recovery-from-boot.p
+36252009	vendor/recovery-from-boot.p
 36168868	system/system/priv-app/HeyTapUserCenter/HeyTapUserCenter.apk
 35349829	system/system/product/priv-app/Phonesky/Phonesky.apk
 34741696	vendor/lib64/libPVROCL.so
@@ -46,11 +46,11 @@
 34150713	system/system/app/FloatAssistant/FloatAssistant.apk
 33554432	boot.img
 32603324	system/system/app/OppoWeather2/OppoWeather2.apk
-32474992	system/system/framework/oat/arm64/services.odex
+32474848	system/system/framework/oat/arm64/services.odex
 31395118	system/system/app/PhoneManager/PhoneManager.apk
 30729127	system/system/priv-app/OppoBootReg/OppoBootReg.apk
-30692779	bootRE/boot.elf
-30192234	system/system/framework/framework.jar
+30693091	bootRE/boot.elf
+30192814	system/system/framework/framework.jar
 30112602	system/system/priv-app/Contacts/Contacts.apk
 30027975	system/system/product/app/GoogleTTS/GoogleTTS.apk
 28541444	system/system/priv-app/com.google.android.apps.walletnfcrel-206A1/com.google.android.apps.walletnfcrel-206A1.apk
@@ -60,23 +60,23 @@
 27439622	system/system/preload/realmeLink/realmeLink.apk
 26532262	system/system/product/app/Gmail2/Gmail2.apk
 25868025	system/system/priv-app/sg.gov.mnd.OneService-206A1/sg.gov.mnd.OneService-206A1.apk
-25344137	system/system/priv-app/OppoLauncher/OppoLauncher.apk
+25438405	system/system/priv-app/OppoLauncher/OppoLauncher.apk
 25261344	vendor/lib/libPVROCL.so
 24776440	system/system/fonts/NotoSerifCJK-Regular.ttc
 24762283	system/system/priv-app/com.google.android.apps.nbu.paisa.user-206A1/com.google.android.apps.nbu.paisa.user-206A1.apk
-24159456	system/system/priv-app/OppoLauncher/oat/arm64/OppoLauncher.odex
+24171480	system/system/priv-app/OppoLauncher/oat/arm64/OppoLauncher.odex
 23191419	system/system/app/com.jakarta.baca.lite-206A1/com.jakarta.baca.lite-206A1.apk
 22999698	system/system/app/SafeCenter/SafeCenter.apk
 22764461	system/system/priv-app/com.m1.mym1-206A1/com.m1.mym1-206A1.apk
 22745144	system/system/product/app/YouTube/oat/arm64/YouTube.vdex
 22745144	system/system/product/app/YouTube/oat/arm/YouTube.vdex
-22407104	bootimg/02_dtbdump_MT6765.dtb
+22405056	bootimg/02_dtbdump_MT6765.dtb
 22249799	system/system/apex/com.google.android.media.swcodec.apex
 21832423	system/system/app/FileManager/FileManager.apk
 21663991	system/system/product/app/CalendarGoogle/CalendarGoogle.apk
 21402892	system/system/preload/com.google.android.apps.photos-9/oat/arm64/com.google.android.apps.photos-9.vdex
 21274070	system/system/app/OppoEngineerMode/OppoEngineerMode.apk
-20774210	system/system/priv-app/TeleService/TeleService.apk
+20790594	system/system/priv-app/TeleService/TeleService.apk
 20709278	system/system/preload/Email/Email.apk
 20332200	system/system/fonts/NotoSansCJK-Regular.ttc
 20290911	system/system/reserve/YTMusic.apk
@@ -103,14 +103,14 @@
 15766984	system/system/preload/com.google.android.apps.youtube.music-9/oat/arm64/com.google.android.apps.youtube.music-9.vdex
 15450963	system/system/product/priv-app/GmsCore/m/independent/AndroidPlatformServices.apk
 15327463	system/system/product/priv-app/CarrierServices/CarrierServices.apk
-15173068	system/system/framework/services.jar
+15173592	system/system/framework/services.jar
 15158409	system/system/priv-app/com.app.m1remit-206A1/com.app.m1remit-206A1.apk
 15093804	system/system/preload/com.google.android.apps.docs-9/oat/arm64/com.google.android.apps.docs-9.vdex
 14602000	system/system/priv-app/sg.gov.mnd.OneService-206A1/lib/arm64/libloader.so
 14067292	system/system/product/app/CalendarGoogle/oat/arm64/CalendarGoogle.vdex
 14045759	system/system/priv-app/com.LogiaGroup.LogiaDeck-206A1/com.LogiaGroup.LogiaDeck-206A1.apk
 13879332	system/system/app/OTAUI/OTAUI.apk
-13802792	system/system/framework/arm64/boot-framework.oat
+13802736	system/system/framework/arm64/boot-framework.oat
 13284778	system/system/app/SecurityAnalysis/SecurityAnalysis.apk
 13248101	system/system/app/DownloaderCenterUI/DownloaderCenterUI.apk
 13244536	system/system/lib64/libCS_dualCalibAlgo.so
@@ -122,7 +122,7 @@
 11915548	system/system/app/MtkBluetooth/MtkBluetooth.apk
 11914992	vendor/lib64/libstface_fd_api.so
 11618424	system/system/lib64/libOPPODualCamCalib.so
-11550964	system/system/framework/arm/boot-framework.oat
+11551008	system/system/framework/arm/boot-framework.oat
 11511880	system/system/lib64/libWMTCamCalib.so
 11396338	system/system/app/com.google.android.apps.nbu.files-206A1/com.google.android.apps.nbu.files-206A1.apk
 11384533	system/system/app/FileEncryption/FileEncryption.apk
@@ -131,13 +131,13 @@
 10490806	system/system/product/priv-app/Wellbeing/Wellbeing.apk
 10457068	system/system/product/app/GoogleContacts/GoogleContacts.apk
 10381316	system/system/product/app/Keep/oat/arm64/Keep.vdex
-10296510	boot/kernel
+10297426	boot/kernel
 10289536	system/system/fonts/SysSans-Hans-Regular.ttf
 10278864	vendor/lib64/libcamalgo.fdft.so
 10270600	system/system/app/KeKePay/oat/arm/KeKePay.vdex
 10266696	system/system/lib64/libTriCamVerify.so
 10198328	system/system/fonts/SysSans-Hans-Medium.ttf
-10182785	bootimg/00_kernel
+10183701	bootimg/00_kernel
 10151060	vendor/lib/libavcodec.so
 10151060	system/system/lib/libavcodec.so
 9939016	system/system/lib64/libWMTCamVerify.so
@@ -163,7 +163,7 @@
 8929916	system/system/app/GameSpace/GameSpace.apk
 8809472	system/system/priv-app/com.singtel.mysingtel-206A1/lib/arm64/libjsc.so
 8798240	vendor/lib64/libufwriter.so
-8678720	system/system/framework/oat/arm64/wifi-service.odex
+8678560	system/system/framework/oat/arm64/wifi-service.odex
 8639811	system/system/app/Stk1/Stk1.apk
 8537444	system/system/app/Calculator2/Calculator2.apk
 8485912	system/system/lib64/libCalibrationJNI.so
@@ -192,7 +192,7 @@
 6926181	system/system/priv-app/EngineerMode/EngineerMode.apk
 6901812	system/system/priv-app/com.singtel.mysingtel-206A1/lib/arm/libjsc.so
 6859402	system/system/app/ChildrenSpace/ChildrenSpace.apk
-6752856	system/system/priv-app/Telecom/oat/arm64/Telecom.odex
+6748672	system/system/priv-app/Telecom/oat/arm64/Telecom.odex
 6609360	system/system/app/OTA/OTA.apk
 6580844	system/system/preload/RealmePay/RealmePay.apk
 6537079	system/system/priv-app/ImsService/ImsService.apk
@@ -231,7 +231,7 @@
 5343863	system/system/apex/com.android.conscrypt.apex
 5339832	vendor/lib64/liboppo_aisd.so
 5326869	system/system/preload/DocVault/DocVault.apk
-5308760	system/system/lib64/libbluetooth.so
+5308736	system/system/lib64/libbluetooth.so
 5183864	vendor/lib/modules/wlan_drv_gen4m.ko
 5159078	system/system/app/OppoMultiApp/OppoMultiApp.apk
 5108206	system/system/product/priv-app/GoogleRestore/GoogleRestore.apk
@@ -255,7 +255,7 @@
 4347679	system/system/app/LockAssistant/LockAssistant.apk
 4296499	system/system/product/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk
 4294775	system/system/app/OppoSmallWeatherWidget/OppoSmallWeatherWidget.apk
-4291321	system/system/framework/wifi-service.jar
+4291957	system/system/framework/wifi-service.jar
 4265104	system/system/lib64/libcalibverify.so
 4210048	vendor/lib64/libarcsoft_low_light_hdr.so
 4209848	system/system/product/app/talkback/oat/arm64/talkback.vdex
@@ -276,7 +276,7 @@
 3667120	system/system/product/usr/srec/en-US/dnn
 3651264	system/system/framework/arm64/boot.oat
 3645040	system/system/product/usr/srec/en-US/CLG.prewalk.fst
-3574736	system/system/lib/libbluetooth.so
+3574228	system/system/lib/libbluetooth.so
 3573744	vendor/lib64/libwvhidl.so
 3443760	vendor/lib64/mediadrm/libwvdrmengine.so
 3411352	system/system/app/OVoiceManagerService/lib/arm64/libvprint.so
@@ -294,7 +294,7 @@
 3144180	system/system/app/Shelper/Shelper.apk
 3137376	system/system/framework/arm/boot.oat
 3073088	system/system/priv-app/com.korvac.liquid-206A1/lib/arm64/libopencv_core.so
-3049314	system/system/framework/telephony-common.jar
+3050418	system/system/framework/telephony-common.jar
 3007999	system/system/framework/ext.jar
 2855400	system/system/product/app/Keep/lib/arm64/libsketchology_native.so
 2724336	vendor/lib64/libcam.hal3a.v3.so
@@ -375,7 +375,7 @@
 2049748	system/system/lib/libclang_rt.asan-arm-android.so
 2013064	system/system/product/app/GoogleContactsSyncAdapter/oat/arm64/GoogleContactsSyncAdapter.vdex
 1995848	vendor/lib64/egl/libGLES_meow.so
-1992896	system/system/framework/arm64/boot-telephony-common.oat
+1992960	system/system/framework/arm64/boot-telephony-common.oat
 1983264	system/system/lib64/libtflite.so
 1971739	system/system/priv-app/ColorfulEngine/ColorfulEngine.apk
 1966080	system/system/framework/arm/boot.art
@@ -406,7 +406,7 @@
 1753515	system/system/apex/com.android.resolv.apex
 1749560	system/system/lib64/libneuralnetworks.so
 1739736	system/system/lib64/libelevoc_single_rn.so
-1704340	system/system/framework/arm/boot-telephony-common.oat
+1704300	system/system/framework/arm/boot-telephony-common.oat
 1685024	system/system/priv-app/OppoExSystemService/OppoExSystemService.apk
 1654539	system/system/etc/selinux/plat_sepolicy_debug.cil
 1618320	vendor/lib64/libavformat.so
@@ -516,7 +516,7 @@
 1019416	system/system/lib64/android.hardware.radio@1.3.so
 1017236	system/system/product/usr/srec/en-US/g2p.data
 1013348	vendor/lib/libvcodecdrv.so
-1012952	system/system/lib64/libnfc-nci.so
+1012960	system/system/lib64/libnfc-nci.so
 1012438	system/system/app/RomUpdate/RomUpdate.apk
 1007920	system/system/lib/openssl/libcrypto.so
 1000740	system/system/lib/bootstrap/libc.so
@@ -526,13 +526,13 @@
 984331	system/system/app/PrintSpooler/PrintSpooler.apk
 983920	system/system/lib64/libperfetto.so
 977256	system/system/priv-app/com.singtel.mysingtel-206A1/lib/arm64/libc++_shared.so
-970924	system/system/lib/libnfc-nci.so
+970928	system/system/lib/libnfc-nci.so
 970008	system/system/lib64/android.hardware.radio@1.1.so
 969904	system/system/lib64/vndk-29/android.hardware.radio@1.1.so
 967356	system/system/lib/vndk-29/android.hardware.wifi.supplicant@1.0.so
 966784	system/system/lib64/vndk-29/android.hardware.gnss@1.0.so
 966768	system/system/lib64/android.hardware.gnss@1.0.so
-964543	bootimg/01_dtbdump_MT6765.dtb
+965675	bootimg/01_dtbdump_MT6765.dtb
 964104	system/system/framework/oat/arm64/oppo-services.odex
 962648	vendor/bin/hw/hostapd
 960884	vendor/lib/libneuropilot_hal_utils.so
@@ -688,12 +688,12 @@
 664608	system/system/lib64/android.hardware.audio@4.0.so
 663648	system/system/lib64/libbinder.so
 661724	system/system/lib/vndk-29/libgui.so
+658767	system/system/etc/apns-conf.xml
 657224	system/system/lib64/vndk-29/android.hardware.gnss@2.0.so
 657208	system/system/lib64/android.hardware.gnss@2.0.so
 657048	system/system/lib64/libstagefright_bufferqueue_helper.so
 656183	system/system/media/audio/ringtones/ringtone_015.ogg
 655160	system/system/app/OVoiceManagerService/lib/arm64/libvad.so
-652974	system/system/etc/apns-conf.xml
 652732	system/system/lib/libtextclassifier.so
 652696	system/system/lib/libopporecorder.so
 651344	system/system/lib64/libcodec2_vndk.so
@@ -706,10 +706,10 @@
 631432	vendor/lib/libstagefright_soft_aacdec.so
 630140	system/system/lib/libharfbuzz_ng.so
 629081	system/system/media/audio/ringtones/ringtone_012.ogg
+628396	vendor/bin/volte_stack
 626736	system/system/lib64/liboppostagefright.so
 625784	system/system/lib64/vndk-29/android.hardware.audio@2.0.so
 625776	system/system/lib64/android.hardware.audio@2.0.so
-624300	vendor/bin/volte_stack
 623189	system/system/app/DebugLoggerUI/DebugLoggerUI.apk
 623016	system/system/lib64/libft2.so
 622544	vendor/lib64/libminiui.so
@@ -731,7 +731,7 @@
 596632	system/system/lib64/libsfplugin_ccodec.so
 595856	system/system/bin/netd
 594856	system/system/lib/libft2.so
-589248	system/system/bin/oiface
+589240	system/system/bin/oiface
 584272	system/system/lib/libdng_sdk.so
 583257	system/system/media/audio/ringtones/ringtone_025.ogg
 582520	system/system/media/audio/ringtones/ringtone_011.ogg
@@ -786,7 +786,7 @@
 505436	system/system/fonts/NotoSansEgyptianHieroglyphs-Regular.ttf
 505336	system/system/usr/share/zoneinfo/tzdata
 504952	system/system/lib64/libaudioprocessing.so
-504226	tmp/all_filenames.txt
+504238	tmp/all_filenames.txt
 503024	system/system/app/Gamecenter/oat/arm/Gamecenter.odex
 502024	system/system/lib64/vndk-29/android.hardware.wifi.supplicant@1.1.so
 500380	system/system/fonts/NotoSansCuneiform-Regular.ttf
@@ -901,6 +901,7 @@
 394056	vendor/lib64/libimageio_plat_pipe.so
 393888	system/system/lib/vndk-29/libstagefright_bufferqueue_helper.so
 393880	system/system/lib/libstagefright_bufferqueue_helper.so
+392472	system/system/preload/OppoVideoEditor/oat/arm64/OppoVideoEditor.odex
 391920	vendor/etc/camera/fb_model/211_pre.bin
 391920	vendor/etc/camera/fb_model/210_pre.bin
 391920	vendor/etc/camera/fb_model/111_pre.bin
@@ -1009,8 +1010,8 @@
 344856	vendor/lib64/vendor.mediatek.hardware.radio_op@1.3.so
 343932	system/system/lib/vndk-29/libssl.so
 343432	oppo_product/decouping_wallpaper/common/inlay_wallpaper1.jpg
+341712	vendor/lib64/libsl_fp_impl.so
 341704	vendor/lib/libopus.so
-341696	vendor/lib64/libsl_fp_impl.so
 341544	vendor/lib64/libswscale.so
 341544	system/system/lib64/libswscale.so
 340984	vendor/lib/libDR.so
@@ -1063,7 +1064,6 @@
 323432	system/system/lib64/libjpeg.so
 322752	system/system/lib64/libRS_internal.so
 322744	system/system/lib64/vndk-sp-29/libRS_internal.so
-322504	system/system/preload/OppoVideoEditor/oat/arm64/OppoVideoEditor.odex
 322448	vendor/lib64/libcamalgo.nr.so
 322400	system/system/lib64/libpcap_bak.so
 322044	system/system/lib/vndk-29/libclang_rt.scudo_minimal-arm-android.so
@@ -1073,6 +1073,7 @@
 320100	oppo_product/decouping_wallpaper/common/inlay_wallpaper6.jpg
 319052	vendor/lib/libpq_cust_base.so
 317251	system/system/usr/hyphen-data/hyph-hu.hyb
+316592	system/system/product/priv-app/MtkCarrierConfig/MtkCarrierConfig.apk
 315832	system/system/lib64/vndk-29/libpcre2.so
 315832	system/system/lib64/libpcre2.so
 314644	system/system/apex/com.android.apex.cts.shim.apex
@@ -1081,7 +1082,6 @@
 314000	system/system/bin/viewcompiler
 313149	system/system/etc/preloaded-classes
 312808	system/system/lib64/libstagefright_omx.so
-312404	system/system/product/priv-app/MtkCarrierConfig/MtkCarrierConfig.apk
 312208	system/system/lib64/vndk-29/libevent.so
 312208	system/system/lib64/libevent.so
 310952	vendor/lib64/libmtkcam_streamutils.so
@@ -1223,7 +1223,6 @@
 260304	vendor/lib64/libcamdrv_isp.so
 259176	vendor/lib/libh264enc_sa.ca7.so
 258924	system/system/fonts/XType-Bold.otf
-256928	system/system/priv-app/Mms/oat/arm/Mms.odex
 256328	vendor/lib64/libmtkcam_ulog.so
 256087	system/system/etc/NOTICE.xml.gz
 255952	system/system/priv-app/com.m1.mym1-206A1/lib/arm/libimagepipeline.so
@@ -1289,6 +1288,7 @@
 237524	system/system/lib/android.hardware.gnss@1.1.so
 236656	system/system/lib64/libmediadrm.so
 236648	system/system/lib64/libaudio_param_parser-sys.so
+236504	system/system/priv-app/Mms/oat/arm/Mms.odex
 236320	system/system/bin/e2fsck
 236264	vendor/lib/libril.so
 236048	vendor/lib64/hw/android.hardware.audio@5.0-impl-mediatek.so
@@ -1303,9 +1303,10 @@
 234172	system/system/media/audio/ringtones/ringtone_021.ogg
 233904	system/system/media/audio/ui/poweron.mp3
 233904	system/system/media/audio/ui/poweroff.mp3
-233096	vendor/lib/libsl_fp_impl.so
+233092	vendor/lib/libsl_fp_impl.so
 232796	system/system/priv-app/OppoGallery2/oat/arm/OppoGallery2.odex
 230745	system/system/framework/mediatek-services.jar
+230656	vendor/lib/libutinterface_custom_md.so
 230648	system/system/app/SecurityAnalysis/oat/arm64/SecurityAnalysis.odex
 230440	system/system/bin/neo
 230384	system/system/app/com.msd.JTClient-206A1/oat/arm64/com.msd.JTClient-206A1.odex
@@ -1324,7 +1325,6 @@
 227240	vendor/lib64/libaudio_param_parser-vnd.so
 226632	system/system/lib/libsensorservice.so
 226624	system/system/app/DownloaderCenterUI/oat/arm64/DownloaderCenterUI.odex
-226560	vendor/lib/libutinterface_custom_md.so
 226176	system/system/lib64/libaaudioservice.so
 225280	system/system/framework/arm64/boot-okhttp.art
 225280	system/system/framework/arm/boot-bouncycastle.art
@@ -1351,8 +1351,8 @@
 218096	system/system/bin/mediametrics
 218088	system/system/product/app/GoogleContacts/oat/arm64/GoogleContacts.odex
 217968	system/system/bin/logd
-217640	system/system/bin/self-init-system
 217632	vendor/bin/self-init
+217632	system/system/bin/self-init-system
 216797	system/system/framework/mediatek-framework-net.jar
 216784	system/system/lib64/libkeystore_aidl.so
 215947	system/system/app/OsuLogin/OsuLogin.apk
@@ -1511,9 +1511,9 @@
 171448	system/system/lib64/vndk-29/android.frameworks.displayservice@1.0.so
 171448	system/system/lib64/android.frameworks.displayservice@1.0.so
 171148	vendor/lib/libaudio_param_parser-vnd.so
+170912	oppo_product/oppo/prerom_tempres/temp_res
 170664	system/system/lib/vndk-29/libexif.so
 170664	system/system/lib/libexif.so
-170336	oppo_product/oppo/prerom_tempres/temp_res
 170072	system/system/bin/oae_server
 169260	system/system/app/MCS/oat/arm/MCS.odex
 168896	vendor/lib64/libmtkcam_calibration_provider.so
@@ -1529,7 +1529,7 @@
 167664	vendor/lib64/vendor.mediatek.hardware.atci@1.0.so
 167560	vendor/lib64/libwapi.so
 167384	system/system/lib/libaudio_param_parser-sys.so
-167120	system/system/bin/dnsmasq
+167144	system/system/bin/dnsmasq
 167020	system/system/lib/libnativehelper_compat_libc++.so
 166672	system/system/lib64/vndk-sp-29/libhwbinder_noltopgo.so
 166520	system/system/lib/vendor.oppo.hardware.biometrics.face@1.0.so
@@ -1625,7 +1625,7 @@
 152440	system/system/lib/android.hardware.camera.device@3.2.so
 152420	system/system/lib/vndk-29/android.hardware.camera.device@3.2.so
 152412	vendor/bin/ccci_fsd
-152360	vendor/bin/hw/android.hardware.drm@1.2-service.clearkey
+152352	vendor/bin/hw/android.hardware.drm@1.2-service.clearkey
 152312	system/system/lib/libEGL.so
 151916	system/system/lib/libpixelflinger.so
 151880	system/system/lib64/libdrmframework.so
@@ -1957,12 +1957,13 @@
 113424	vendor/lib64/libfeature_lmv.so
 113376	system/system/product/app/WebViewGoogle/oat/arm/WebViewGoogle.odex
 113177	system/system/etc/vintf/compatibility_matrix.4.xml
+112907	system/system/preload/OppoVideoEditor/oat/arm64/OppoVideoEditor.vdex
 112904	vendor/bin/hw/interfaces.factoryInterface@1.0-service
 112744	vendor/lib64/vendor.mediatek.hardware.mms@1.5.so
 112636	system/system/fonts/NotoSansMyanmarUI-Bold.otf
 112600	system/system/fonts/NotoSerifEthiopic-Regular.otf
 112572	system/system/lib/vndk-29/android.hardware.usb@1.2.so
-112560	vendor/lib64/libcarrierconfig.so
+112552	vendor/lib64/libcarrierconfig.so
 112512	system/system/app/MtkBluetooth/oat/arm64/MtkBluetooth.odex
 112400	vendor/lib64/libaedv.so
 112332	system/system/fonts/NotoSansMyanmarUI-Regular.otf
@@ -2232,7 +2233,6 @@
 90708	vendor/firmware/tp/19357/FW_GT9886_SAMSUNG_FAE.img
 90607	system/system/app/Gba/Gba.apk
 90464	vendor/lib/libfile_op.so
-90446	system/system/preload/OppoVideoEditor/oat/arm64/OppoVideoEditor.vdex
 90344	system/system/etc/vintf/compatibility_matrix.3.xml
 90112	system/system/framework/arm64/boot-ims-common.art
 89888	vendor/lib64/libcamalgo.utility.so
@@ -2315,9 +2315,9 @@
 84852	system/system/lib/vndk-29/android.system.suspend@1.0.so
 84848	system/system/lib64/liboppoplayer_jni.so
 84848	system/system/lib/android.system.suspend@1.0.so
+84846	system/system/etc/spn-conf.xml
 84828	system/system/lib/libbacktrace.so
 84812	system/system/lib/vndk-sp-29/libbacktrace.so
-84792	system/system/etc/spn-conf.xml
 84672	vendor/lib64/libcamalgo.flicker.so
 84624	system/system/fonts/NotoSansOriya-Bold.ttf
 84464	system/system/fonts/NotoSansSinhalaUI-Bold.otf
@@ -2555,7 +2555,7 @@
 74568	vendor/bin/hw/android.hardware.secure_element@1.0-service-mediatek
 74512	vendor/lib64/libmtkrilutils.so
 74488	system/system/lib64/libmediametrics.so
-74452	vendor/lib/hw/android.hardware.drm@1.0-impl.so
+74472	vendor/lib/hw/android.hardware.drm@1.0-impl.so
 74404	system/system/app/OppoWeatherService/oat/arm/OppoWeatherService.odex
 74404	system/system/app/GameSpace/oat/arm/GameSpace.odex
 74404	system/system/app/ColorScreenRecorder/oat/arm/ColorScreenRecorder.odex
@@ -2583,6 +2583,7 @@
 71984	vendor/lib64/libmtkcam_pipelinemodel_capture.so
 71977	system/system/etc/vintf/compatibility_matrix.legacy.xml
 71968	system/system/etc/vintf/compatibility_matrix.1.xml
+71854	system/system/etc/boot-image.prof
 71791	system/system/priv-app/sg.gov.mnd.OneService-206A1/oat/arm64/sg.gov.mnd.OneService-206A1.vdex
 71704	system/system/lib/vndk-29/libaudioutils.so
 71704	system/system/lib/libaudioutils.so
@@ -2595,7 +2596,7 @@
 71208	vendor/lib64/libswresample.so
 71208	system/system/lib64/libswresample.so
 71184	vendor/bin/wfca
-71104	system/system/priv-app/OppoLauncher/oat/arm64/OppoLauncher.vdex
+71139	system/system/priv-app/OppoLauncher/oat/arm64/OppoLauncher.vdex
 71104	system/system/lib64/libterservice.so
 70944	system/system/product/priv-app/SetupWizard/oat/arm64/SetupWizard.odex
 70928	system/system/lib64/libgraphics2d_ext.so
@@ -2640,7 +2641,6 @@
 70272	system/system/lib/vndk-29/android.hardware.oemlock@1.0.so
 70228	system/system/lib/vndk-29/android.hardware.gatekeeper@1.0.so
 70200	system/system/lib/vendor.mediatek.hardware.mms@1.1.so
-70199	system/system/etc/boot-image.prof
 70196	vendor/lib/vendor.mediatek.hardware.mms@1.1.so
 70160	vendor/lib64/libcares_naptr.so
 70023	system/system/priv-app/com.LogiaGroup.LogiaDeck-206A1/oat/arm64/com.LogiaGroup.LogiaDeck-206A1.vdex
@@ -2676,7 +2676,6 @@
 67957	system/system/app/MtkBluetooth/oat/arm64/MtkBluetooth.vdex
 67888	vendor/etc/camera/fb_model/203.png
 67840	system/system/lib/drm/cta/libdrmctaplugin.so
-67759	system/system/priv-app/Mms/oat/arm/Mms.vdex
 67732	vendor/lib/libMtkOmxApeDec.so
 67664	system/system/lib/libnetdutils.so
 67652	system/system/lib/server_configurable_flags.so
@@ -2685,6 +2684,7 @@
 67568	system/system/lib64/libjni_pq.so
 67472	system/system/lib64/libaudioutilmtk.so
 67440	vendor/bin/aee_dumpstatev
+67396	system/system/priv-app/Mms/oat/arm/Mms.vdex
 67384	system/system/lib/libsensor.so
 67352	system/system/bin/mini-keyctl
 67342	system/system/product/overlay/IconPackFilledAndroid/IconPackFilledAndroidOverlay.apk
@@ -2931,9 +2931,9 @@
 55909	system/system/etc/selinux/plat_property_contexts
 55780	system/system/lib/libged_sys.so
 55776	vendor/lib/libged.so
+55496	vendor/lib64/libsensorndkbridge.so
+55484	system/system/etc/permissions/privapp-permissions-platform.xml
 55479	system/system/app/BackupAndRestore/oat/arm/BackupAndRestore.vdex
-55448	vendor/lib64/libsensorndkbridge.so
-55408	system/system/etc/permissions/privapp-permissions-platform.xml
 55371	vendor/etc/nfc/libnfc-mtp-SN100.conf_19591
 55371	vendor/etc/nfc/libnfc-mtp-SN100.conf_19525
 55371	vendor/etc/nfc/libnfc-mtp-SN100.conf_19191
@@ -3068,6 +3068,7 @@
 48982	vendor/etc/camera/fb_model/113.png
 48982	vendor/etc/camera/fb_model/013.png
 48896	vendor/lib64/ls_client.so
+48836	vendor/etc/ecc_list.xml
 48768	system/system/etc/textclassifier/textclassifier.universal.model
 48640	system/system/lib/vndk-29/libldacBT_enc.so
 48640	system/system/lib/libldacBT_enc.so
@@ -3078,7 +3079,6 @@
 48578	vendor/firmware/tp/206A1/ls_inx_ilitek.ini
 48528	system/system/lib64/oemnetd_aidl_interface-cpp.so
 48511	system/system/priv-app/CellBroadcastReceiver/oat/arm64/CellBroadcastReceiver.vdex
-48456	vendor/etc/ecc_list.xml
 48184	system/system/lib64/libc_scudo.so
 48144	system/system/priv-app/com.app.m1remit-206A1/oat/arm64/com.app.m1remit-206A1.vdex
 48076	system/system/fonts/NotoSerifKhmer-Bold.otf
@@ -3201,8 +3201,8 @@
 42728	vendor/firmware/tp/206A1/txd_auo_ilitek.ini
 42692	system/system/lib/libresourcemanagerservice.so
 42683	system/system/app/OcrService/oat/arm64/OcrService.vdex
+42632	vendor/lib/libsensorndkbridge.so
 42592	vendor/lib64/libtqvalidate.so
-42588	vendor/lib/libsensorndkbridge.so
 42568	system/system/lib/libimsma_adapt.so
 42564	system/system/lib/hw/audio.a2dp.default.so
 42560	vendor/bin/dumpsys
@@ -3359,7 +3359,7 @@
 36632	system/system/lib/suspend_control_aidl_interface-cpp.so
 36632	system/system/lib/libcamera_metadata.so
 36584	system/system/lib64/libpcrecpp.so
-36575	system/system/framework/boot-framework.vdex
+36577	system/system/framework/boot-framework.vdex
 36540	system/system/media/audio/ui/ebook_page3.mp3
 36540	system/system/lib/liboppoloadframe.so
 36528	system/system/lib64/libimage_processing_util_jni.so
@@ -3808,7 +3808,7 @@
 25826	oppo_product/media/quickboot/boot_charger_full_with_exception1.png
 25824	system/system/lib64/vndk-sp-29/hw/android.hidl.memory@1.0-impl.so
 25824	system/system/lib64/hw/android.hidl.memory@1.0-impl.so
-25749	system/system/framework/oat/arm64/wifi-service.vdex
+25757	system/system/framework/oat/arm64/wifi-service.vdex
 25735	vendor/app/mcRegistry/07010000000000000000000000000000.tlbin
 25628	system/system/framework/oat/arm/factoryInterface.odex
 25610	system/system/media/audio/notifications/notification_005.ogg
@@ -3883,8 +3883,8 @@
 24528	vendor/bin/vndservicemanager
 24520	system/system/bin/servicemanager
 24480	system/system/bin/shutdown_log_back
+24469	system/system/framework/services.jar.prof
 24468	system/system/lib/oppoex/libcriticallogex.so
-24468	system/system/framework/services.jar.prof
 24444	vendor/bin/rttv
 24430	system/system/media/audio/ui/pure_music_up.ogg
 24416	vendor/lib64/libcameracustom.plugin.so
@@ -5271,7 +5271,7 @@
 9564	vendor/firmware/customfilter/catcher_filter_1_ulwctg_n_PLS_PS_ONLY.bin
 9564	vendor/firmware/customfilter/catcher_filter_1_ulwctg_n_FullLog.bin
 9564	vendor/firmware/catcher_filter_1_ulwctg_n.bin
-9561	vendor/build.prop
+9562	vendor/build.prop
 9550	vendor/firmware/fastchg/18593/oppo_vooc_fw_n76e.bin
 9550	vendor/firmware/fastchg/18073/oppo_vooc_fw_n76e.bin
 9519	vendor/etc/audio_param/SpeechVol_AudioParam.xml
@@ -6290,8 +6290,8 @@
 3484	system/system/usr/hyphen-data/hyph-und-ethi.hyb
 3467	system/system/usr/hyphen-data/hyph-bg.hyb
 3460	vendor/etc/audio_param/SpeechDMNR_AudioParam.xml
+3453	system/system/sysmd5.zip
 3452	vendor/etc/sn100u_pnx_ese_3.pnscr
-3452	system/system/sysmd5.zip
 3449	vendor/etc/audio_param/oppo6771_19597/AudioParamOptions.xml
 3443	system/system/etc/oppoOperatorFeatures/com.oppo.operator.JP.SOFTBANK.xml
 3442	vendor/etc/audio_param/oppo6771_19597/Volume_ParamUnitDesc.xml
@@ -7027,8 +7027,8 @@
 1965	vendor/etc/audio_param/oppo6771_19357/VolumeGainMapUL_AudioParam.xml
 1965	vendor/etc/audio_param/oppo6771_19354/VolumeGainMapUL_AudioParam.xml
 1965	system/system/etc/selinux/plat_seapp_contexts
+1953	system/system/framework/wifi-service.jar.prof
 1952	system/system/etc/bluetooth/bt_stack.conf
-1951	system/system/framework/wifi-service.jar.prof
 1948	vendor/etc/audio_param/oppo6769_206AC_SIA81XX_637/VolumeGainMapUL_AudioParam.xml
 1948	vendor/etc/audio_param/oppo6769_206AC_SIA81XX_633/VolumeGainMapUL_AudioParam.xml
 1948	vendor/etc/audio_param/oppo6769_206AC_637/VolumeGainMapUL_AudioParam.xml
@@ -7204,7 +7204,6 @@
 1729	vendor/etc/audio_param/SpeechVolUI_AudioParam.xml
 1728	system/system/usr/hyphen-data/hyph-da.lic.txt
 1721	system/system/product/usr/srec/en-US/dict
-1712	system/system/etc/init/hw/init.aee.rc
 1710	system/system/media/theme/default/com.coloros.gamespaceui/peb.png
 1703	system/system/media/theme/default/com.coloros.backuprestore/peb.png
 1690	system/system/usr/keylayout/Vendor_054c_Product_09cc_Version_8100.kl
@@ -7294,6 +7293,7 @@
 1570	vendor/etc/audio_param/oppo6765_206A1_635/RecordVolUI_ParamUnitDesc.xml
 1570	vendor/etc/audio_param/oppo6765_206A1/RecordVolUI_ParamUnitDesc.xml
 1570	vendor/etc/audio_param/RecordVolUI_ParamUnitDesc.xml
+1570	system/system/etc/init/hw/init.aee.rc
 1568	system/system/usr/keylayout/Vendor_045e_Product_02ea.kl
 1568	system/system/usr/keylayout/Vendor_045e_Product_02d1.kl
 1568	system/system/app/ColorAppServicesManager/oat/arm64/ColorAppServicesManager.vdex
@@ -8011,8 +8011,8 @@
 778	vendor/etc/audio_param/oppo6765_206A1/VoIPv2General_ParamUnitDesc.xml
 778	vendor/etc/audio_param/VoIPv2General_ParamUnitDesc.xml
 776	system/system/usr/hyphen-data/hyph-ml.hyb
+775	system/system/app/CompanionDeviceManager/oat/arm64/CompanionDeviceManager.vdex
 767	vendor/etc/init/init.cccimdinit.rc
-765	system/system/app/CompanionDeviceManager/oat/arm64/CompanionDeviceManager.vdex
 765	oppo_product/etc/permissions/com.oppo.features_multimedia.xml
 760	system/system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.JP.xml
 754	system/system/usr/hyphen-data/hyph-hy.lic.txt
@@ -8154,9 +8154,9 @@
 621	vendor/firmware/ufs/move_target_ufs_fw_to_opporeserve1.sh
 617	system/system/framework/oat/arm64/bmgr.vdex
 617	system/system/framework/oat/arm/bmgr.vdex
+616	README.md
 615	system/system/product/usr/srec/en-US/am_phonemes.syms
 615	system/init.oppo.seccommon.rc
-615	README.md
 612	vendor/etc/audio_param/oppo6771_19597/RingbackVolUI_AudioParam.xml
 612	vendor/etc/audio_param/oppo6771_19556/RingbackVolUI_AudioParam.xml
 612	vendor/etc/audio_param/oppo6771_19553/RingbackVolUI_AudioParam.xml
@@ -8380,8 +8380,8 @@
 484	system/system/etc/init/flags_health_check.rc
 479	vendor/etc/security/pl.fs
 479	vendor/etc/audio_param/SpeechMagiClarity_AudioParam.xml
-473	system/system/product/priv-app/MtkCarrierConfig/oat/arm64/MtkCarrierConfig.vdex
 471	system/ueventd.reserve.rc
+470	system/system/product/priv-app/MtkCarrierConfig/oat/arm64/MtkCarrierConfig.vdex
 469	system/system/bin/hid
 468	system/system/etc/init/netd.rc
 465	system/system/media/theme/default/com.facebook.katana/recfg.png
@@ -9149,6 +9149,7 @@
 84	system/system/etc/init/ashmemd.rc
 83	vendor/etc/init/init.thermal.rc
 81	system/system/media/theme/default/com.pinterest/recbg.png
+79	tmp/.sd.txt
 79	system/system/framework/boot-mediatek-telecom-common.vdex
 79	system/system/etc/permissions/com.oppo.features_chatty.xml
 76	vendor/lib/egl/egl.cfg

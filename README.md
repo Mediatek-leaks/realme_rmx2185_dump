@@ -6,15 +6,15 @@
 - Flavor: full_oppo6765-user
 - Release Version: 10
 - Id: QP1A.190711.020
-- Incremental: bedd37e98646d3a1
+- Incremental: 0930_202104192215
 - Tags: release-keys
 - CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
 - A/B Device: false
 - Locale: en-US
 - Screen Density: undefined
 - Fingerprint: 
-- OTA version: RMX2185_11.A.87_0870_202103051433
-- Branch: RMX2185_11.A.87_0870_202103051433
+- OTA version: RMX2185_11.A.93_0930_202104192215
+- Branch: RMX2185_11.A.93_0930_202104192215
 - Repo: realme_rmx2185_dump
 
 
